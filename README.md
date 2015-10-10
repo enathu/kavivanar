@@ -10,6 +10,6 @@ Send us bug reports, feature enhancements or glyph requests, using the [Github I
 
 ## License
 
-Copyright (c) 2015, Tharique Azeez ([http://niram.org](http://thariqueazeez.com))
+Copyright (c) 2015, Tharique Azeez ([link](http://thariqueazeez.com))
 
 Kavivanar Font is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
