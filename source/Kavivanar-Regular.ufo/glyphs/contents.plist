@@ -14,8 +14,10 @@
     <string>tm_A_i.glif</string>
     <key>tm_Au</key>
     <string>tm_A_u.glif</string>
-    <key>tm_AuLengthMark</key>
-    <string>tm_A_uL_engthM_ark.glif</string>
+    <key>tm_CU</key>
+    <string>tm_C_U_.glif</string>
+    <key>tm_CUu</key>
+    <string>tm_C_U_u.glif</string>
     <key>tm_Ca</key>
     <string>tm_C_a.glif</string>
     <key>tm_E</key>
@@ -30,10 +32,20 @@
     <string>tm_I_i.glif</string>
     <key>tm_Ja</key>
     <string>tm_J_a.glif</string>
+    <key>tm_KU</key>
+    <string>tm_K_U_.glif</string>
+    <key>tm_KUu</key>
+    <string>tm_K_U_u.glif</string>
     <key>tm_Ka</key>
     <string>tm_K_a.glif</string>
+    <key>tm_LU</key>
+    <string>tm_L_U_.glif</string>
     <key>tm_La</key>
     <string>tm_L_a.glif</string>
+    <key>tm_LlU</key>
+    <string>tm_L_lU_.glif</string>
+    <key>tm_LlUu</key>
+    <string>tm_L_lU_u.glif</string>
     <key>tm_Lla</key>
     <string>tm_L_la.glif</string>
     <key>tm_Llla</key>
@@ -76,8 +88,6 @@
     <string>tm_U_u.glif</string>
     <key>tm_Va</key>
     <string>tm_V_a.glif</string>
-    <key>tm_Virama</key>
-    <string>tm_V_irama.glif</string>
     <key>tm_VowelAa</key>
     <string>tm_V_owelA_a.glif</string>
     <key>tm_VowelAi</key>
