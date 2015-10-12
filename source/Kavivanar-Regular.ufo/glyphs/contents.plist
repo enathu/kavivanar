@@ -14,6 +14,8 @@
     <string>tm_A_i.glif</string>
     <key>tm_Au</key>
     <string>tm_A_u.glif</string>
+    <key>tm_AuLengthMark</key>
+    <string>tm_A_uL_engthM_ark.glif</string>
     <key>tm_CU</key>
     <string>tm_C_U_.glif</string>
     <key>tm_CUu</key>
@@ -24,6 +26,10 @@
     <string>tm_E_.glif</string>
     <key>tm_Ee</key>
     <string>tm_E_e.glif</string>
+    <key>tm_Five</key>
+    <string>tm_F_ive.glif</string>
+    <key>tm_Four</key>
+    <string>tm_F_our.glif</string>
     <key>tm_Ha</key>
     <string>tm_H_a.glif</string>
     <key>tm_I</key>
@@ -48,10 +54,20 @@
     <string>tm_L_lU_u.glif</string>
     <key>tm_Lla</key>
     <string>tm_L_la.glif</string>
+    <key>tm_LllU</key>
+    <string>tm_L_llU_.glif</string>
+    <key>tm_LllUu</key>
+    <string>tm_L_llU_u.glif</string>
     <key>tm_Llla</key>
     <string>tm_L_lla.glif</string>
+    <key>tm_MU</key>
+    <string>tm_M_U_.glif</string>
+    <key>tm_MUu</key>
+    <string>tm_M_U_u.glif</string>
     <key>tm_Ma</key>
     <string>tm_M_a.glif</string>
+    <key>tm_NU</key>
+    <string>tm_N_U_.glif</string>
     <key>tm_Na</key>
     <string>tm_N_a.glif</string>
     <key>tm_Nga</key>
@@ -64,12 +80,20 @@
     <string>tm_N_ya.glif</string>
     <key>tm_O</key>
     <string>tm_O_.glif</string>
+    <key>tm_One</key>
+    <string>tm_O_ne.glif</string>
     <key>tm_Oo</key>
     <string>tm_O_o.glif</string>
     <key>tm_Pa</key>
     <string>tm_P_a.glif</string>
+    <key>tm_RU</key>
+    <string>tm_R_U_.glif</string>
+    <key>tm_RUu</key>
+    <string>tm_R_U_u.glif</string>
     <key>tm_Ra</key>
     <string>tm_R_a.glif</string>
+    <key>tm_RrU</key>
+    <string>tm_R_rU_.glif</string>
     <key>tm_Rra</key>
     <string>tm_R_ra.glif</string>
     <key>tm_Sa</key>
@@ -78,20 +102,38 @@
     <string>tm_S_ha.glif</string>
     <key>tm_Ssa</key>
     <string>tm_S_sa.glif</string>
+    <key>tm_TU</key>
+    <string>tm_T_U_.glif</string>
     <key>tm_Ta</key>
     <string>tm_T_a.glif</string>
+    <key>tm_Three</key>
+    <string>tm_T_hree.glif</string>
+    <key>tm_TtI</key>
+    <string>tm_T_tI_.glif</string>
+    <key>tm_TtIi</key>
+    <string>tm_T_tI_i.glif</string>
+    <key>tm_TtU</key>
+    <string>tm_T_tU_.glif</string>
+    <key>tm_TtUu</key>
+    <string>tm_T_tU_u.glif</string>
     <key>tm_Tta</key>
     <string>tm_T_ta.glif</string>
+    <key>tm_Two</key>
+    <string>tm_T_wo.glif</string>
     <key>tm_U</key>
     <string>tm_U_.glif</string>
     <key>tm_Uu</key>
     <string>tm_U_u.glif</string>
     <key>tm_Va</key>
     <string>tm_V_a.glif</string>
+    <key>tm_Virama</key>
+    <string>tm_V_irama.glif</string>
     <key>tm_VowelAa</key>
     <string>tm_V_owelA_a.glif</string>
     <key>tm_VowelAi</key>
     <string>tm_V_owelA_i.glif</string>
+    <key>tm_VowelAu</key>
+    <string>tm_V_owelA_u.glif</string>
     <key>tm_VowelE</key>
     <string>tm_V_owelE_.glif</string>
     <key>tm_VowelEe</key>
@@ -100,6 +142,10 @@
     <string>tm_V_owelI_.glif</string>
     <key>tm_VowelIi</key>
     <string>tm_V_owelI_i.glif</string>
+    <key>tm_VowelO</key>
+    <string>tm_V_owelO_.glif</string>
+    <key>tm_VowelOo</key>
+    <string>tm_V_owelO_o.glif</string>
     <key>tm_VowelU</key>
     <string>tm_V_owelU_.glif</string>
     <key>tm_VowelUu</key>
