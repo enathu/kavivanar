@@ -12,6 +12,8 @@
     <string>tm_A_a.glif</string>
     <key>tm_Ai</key>
     <string>tm_A_i.glif</string>
+    <key>tm_Anusvara</key>
+    <string>tm_A_nusvara.glif</string>
     <key>tm_Au</key>
     <string>tm_A_u.glif</string>
     <key>tm_AuLengthMark</key>
@@ -38,6 +40,8 @@
     <string>tm_I_i.glif</string>
     <key>tm_Ja</key>
     <string>tm_J_a.glif</string>
+    <key>tm_KSsa</key>
+    <string>tm_K_S_sa.glif</string>
     <key>tm_KU</key>
     <string>tm_K_U_.glif</string>
     <key>tm_KUu</key>
@@ -70,12 +74,20 @@
     <string>tm_N_U_.glif</string>
     <key>tm_Na</key>
     <string>tm_N_a.glif</string>
+    <key>tm_NgUu</key>
+    <string>tm_N_gU_u.glif</string>
     <key>tm_Nga</key>
     <string>tm_N_ga.glif</string>
+    <key>tm_NnU</key>
+    <string>tm_N_nU_.glif</string>
     <key>tm_Nna</key>
     <string>tm_N_na.glif</string>
+    <key>tm_NnnU</key>
+    <string>tm_N_nnU_.glif</string>
     <key>tm_Nnna</key>
     <string>tm_N_nna.glif</string>
+    <key>tm_NyU</key>
+    <string>tm_N_yU_.glif</string>
     <key>tm_Nya</key>
     <string>tm_N_ya.glif</string>
     <key>tm_O</key>
@@ -84,6 +96,8 @@
     <string>tm_O_ne.glif</string>
     <key>tm_Oo</key>
     <string>tm_O_o.glif</string>
+    <key>tm_PUu</key>
+    <string>tm_P_U_u.glif</string>
     <key>tm_Pa</key>
     <string>tm_P_a.glif</string>
     <key>tm_RU</key>
@@ -100,6 +114,8 @@
     <string>tm_S_a.glif</string>
     <key>tm_Sha</key>
     <string>tm_S_ha.glif</string>
+    <key>tm_Shree</key>
+    <string>tm_S_hree.glif</string>
     <key>tm_Ssa</key>
     <string>tm_S_sa.glif</string>
     <key>tm_TU</key>
@@ -124,10 +140,14 @@
     <string>tm_U_.glif</string>
     <key>tm_Uu</key>
     <string>tm_U_u.glif</string>
+    <key>tm_VUu</key>
+    <string>tm_V_U_u.glif</string>
     <key>tm_Va</key>
     <string>tm_V_a.glif</string>
     <key>tm_Virama</key>
     <string>tm_V_irama.glif</string>
+    <key>tm_Visarga</key>
+    <string>tm_V_isarga.glif</string>
     <key>tm_VowelAa</key>
     <string>tm_V_owelA_a.glif</string>
     <key>tm_VowelAi</key>
@@ -150,6 +170,8 @@
     <string>tm_V_owelU_.glif</string>
     <key>tm_VowelUu</key>
     <string>tm_V_owelU_u.glif</string>
+    <key>tm_YUu</key>
+    <string>tm_Y_U_u.glif</string>
     <key>tm_Ya</key>
     <string>tm_Y_a.glif</string>
   </dict>

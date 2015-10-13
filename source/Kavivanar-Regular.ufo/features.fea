@@ -1,0 +1,63 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\uni0000 \uni000D \A \AE \Aacute \Abreve \Acircumflex \Adieresis 
+	\Agrave \Amacron \Aogonek \Aring \Atilde \B \C \Cacute \Ccaron \Ccedilla 
+	\Ccircumflex \Cdotaccent \D \Dcaron \Dcroat \E \Eacute \Ecaron \Ecircumflex 
+	\Edieresis \Egrave \Emacron \Eogonek \Eth \Euro \F \G \Gbreve \Gcircumflex 
+	\Gdotaccent \H \Hbar \I \IJ \Iacute \Ibreve \Icircumflex \Idieresis \Idotaccent 
+	\Igrave \Imacron \Iogonek \Itilde \J \Jcircumflex \K \L \Lacute \Lcaron \Ldot 
+	\Lslash \M \N \NULL \Nacute \Ncaron \Ntilde \O \OE \Oacute \Obreve \Ocircumflex 
+	\Odieresis \Ograve \Ohungarumlaut \Omacron \Oslash \Otilde \P \Q \R \Racute 
+	\Rcaron \S \Sacute \Scaron \Scedilla \Scircumflex \T \Tcaron \Thorn \U \Uacute 
+	\Ubreve \Ucircumflex \Udieresis \Ugrave \Uhungarumlaut \Umacron \Uogonek \Uring 
+	\V \W \X \Y \Yacute \Ydieresis \Z \Zacute \Zcaron \Zdotaccent \a \aacute \abreve 
+	\acircumflex \acute \adieresis \ae \agrave \amacron \ampersand \aogonek \aring 
+	\asciicircum \asciitilde \asterisk \at \atilde \b \backslash \bar \braceleft 
+	\braceright \bracketleft \bracketright \breve \brokenbar \c \cacute \caron 
+	\ccaron \ccedilla \ccircumflex \cdotaccent \cedilla \cent \circumflex \colon 
+	\comma \copyright \currency \d \dcaron \dcroat \degree \dieresis \divide \dollar 
+	\dotaccent \dotlessi \e \eacute \ecaron \ecircumflex \edieresis \egrave \eight 
+	\emacron \emdash \endash \eogonek \equal \eth \exclam \exclamdown \f \fi \five \fl 
+	\four \g \gbreve \gcircumflex \gdotaccent \germandbls \grave \greater 
+	\guillemotleft \guillemotright \guilsinglleft \guilsinglright \h \hbar 
+	\hcircumflex \hungarumlaut \hyphen \i \iacute \ibreve \icircumflex \idieresis 
+	\igrave \ij \imacron \iogonek \itilde \j \jcircumflex \k \kgreenlandic \l \lacute 
+	\lcaron \ldot \less \logicalnot \lslash \m \macron \minus \mu \multiply \n \nacute 
+	\ncaron \nine \ntilde \numbersign \o \oacute \obreve \ocircumflex \odieresis \oe 
+	\ogonek \ograve \ohungarumlaut \omacron \one \onehalf \onequarter \onesuperior 
+	\ordfeminine \ordmasculine \oslash \otilde \p \paragraph \parenleft \parenright 
+	\percent \period \periodcentered \plus \plusminus \q \question \questiondown 
+	\quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft \quoteright 
+	\quotesinglbase \quotesingle \r \racute \rcaron \registered \ring \s \sacute 
+	\scaron \scedilla \scircumflex \section \semicolon \seven \six \slash \space 
+	\sterling \t \tcaron \thorn \three \threequarters \threesuperior \tilde \tm_A 
+	\tm_Aa \tm_Ai \tm_Au \tm_AuLengthMark \tm_Ca \tm_E \tm_Ee \tm_Eight \tm_Enn 
+	\tm_Five \tm_Four \tm_Ha \tm_Hundred \tm_I \tm_Ii \tm_Ja \tm_Ka \tm_La \tm_Lla 
+	\tm_Llla \tm_Ma \tm_Maatham \tm_Merpadi \tm_Na \tm_Naal \tm_Nga \tm_Nine \tm_Nna 
+	\tm_Nnna \tm_Nya \tm_O \tm_Om \tm_One \tm_Oo \tm_Pa \tm_Patru \tm_Ra \tm_Rra 
+	\tm_Rupee \tm_Sa \tm_Seven \tm_Sha \tm_Six \tm_Ssa \tm_Ta \tm_Ten \tm_Thousand 
+	\tm_Three \tm_Tta \tm_Two \tm_U \tm_Uu \tm_Va \tm_Varavu \tm_Varudam \tm_Visarga 
+	\tm_VowelAa \tm_VowelAi \tm_VowelAu \tm_VowelE \tm_VowelEe \tm_VowelI 
+	\tm_VowelI.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelO \tm_VowelOo 
+	\tm_VowelU \tm_VowelU.alt1 \tm_VowelUu \tm_VowelUu.alt1 \tm_Ya \tm_Zero 
+	\trademark \two \twosuperior \u \uacute \ubreve \ucircumflex \udieresis \ugrave 
+	\uhungarumlaut \umacron \underscore \uni00A0 \uni0122 \uni0123 \uni0136 
+	\uni0137 \uni013B \uni013C \uni0145 \uni0146 \uni0156 \uni0157 \uni01C4 \uni01C5 
+	\uni01C7 \uni01C8 \uni01CA \uni01CB \uni01F1 \uni01F2 \uni01F4 \uni01F5 \uni0200 
+	\uni0201 \uni0202 \uni0203 \uni0204 \uni0205 \uni0206 \uni0207 \uni0208 \uni0209 
+	\uni020A \uni020B \uni020C \uni020D \uni020E \uni020F \uni0218 \uni0219 \uni021A 
+	\uni021B \uni0237 \uni0307 \uni030F \uni0311 \uni0326 \uni03BC \uni0964 \uni0965 
+	\uni2074 \uni25CC \uogonek \uring \v \w \x \y \yacute \ydieresis \yen \z \zacute 
+	\zcaron \zdotaccent \zero ];
+@GDEF_Ligature = [\tm_CU \tm_CUu \tm_KSsa \tm_KU \tm_KUu \tm_LU \tm_LlU \tm_LlUu 
+	\tm_LllU \tm_LllUu \tm_MU \tm_MUu \tm_NU \tm_NgUu \tm_NnU \tm_NnnU \tm_NyU 
+	\tm_PUu \tm_RU \tm_RUu \tm_RrU \tm_Shree \tm_TU \tm_TtI \tm_TtIi \tm_TtU \tm_TtUu 
+	\tm_VUu \tm_YUu ];
+@GDEF_Mark = [\tm_Anusvara \tm_Virama \tm_VowelIi ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+
+} GDEF;
+
