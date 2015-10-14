@@ -28,12 +28,16 @@
     <string>tm_E_.glif</string>
     <key>tm_Ee</key>
     <string>tm_E_e.glif</string>
+    <key>tm_Eight</key>
+    <string>tm_E_ight.glif</string>
     <key>tm_Five</key>
     <string>tm_F_ive.glif</string>
     <key>tm_Four</key>
     <string>tm_F_our.glif</string>
     <key>tm_Ha</key>
     <string>tm_H_a.glif</string>
+    <key>tm_Hundred</key>
+    <string>tm_H_undred.glif</string>
     <key>tm_I</key>
     <string>tm_I_.glif</string>
     <key>tm_Ii</key>
@@ -78,6 +82,8 @@
     <string>tm_N_gU_u.glif</string>
     <key>tm_Nga</key>
     <string>tm_N_ga.glif</string>
+    <key>tm_Nine</key>
+    <string>tm_N_ine.glif</string>
     <key>tm_NnU</key>
     <string>tm_N_nU_.glif</string>
     <key>tm_Nna</key>
@@ -112,16 +118,24 @@
     <string>tm_R_ra.glif</string>
     <key>tm_Sa</key>
     <string>tm_S_a.glif</string>
+    <key>tm_Seven</key>
+    <string>tm_S_even.glif</string>
     <key>tm_Sha</key>
     <string>tm_S_ha.glif</string>
     <key>tm_Shree</key>
     <string>tm_S_hree.glif</string>
+    <key>tm_Six</key>
+    <string>tm_S_ix.glif</string>
     <key>tm_Ssa</key>
     <string>tm_S_sa.glif</string>
     <key>tm_TU</key>
     <string>tm_T_U_.glif</string>
     <key>tm_Ta</key>
     <string>tm_T_a.glif</string>
+    <key>tm_Ten</key>
+    <string>tm_T_en.glif</string>
+    <key>tm_Thousand</key>
+    <string>tm_T_housand.glif</string>
     <key>tm_Three</key>
     <string>tm_T_hree.glif</string>
     <key>tm_TtI</key>
@@ -174,5 +188,7 @@
     <string>tm_Y_U_u.glif</string>
     <key>tm_Ya</key>
     <string>tm_Y_a.glif</string>
+    <key>tm_Zero</key>
+    <string>tm_Z_ero.glif</string>
   </dict>
 </plist>
