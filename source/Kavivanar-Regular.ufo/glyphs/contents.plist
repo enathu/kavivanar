@@ -4,6 +4,16 @@
   <dict>
     <key>uni0000</key>
     <string>uni0000.glif</string>
+    <key>a</key>
+    <string>a.glif</string>
+    <key>c</key>
+    <string>c.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>n</key>
+    <string>n.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>tm_A</key>
