@@ -22,51 +22,51 @@
       <point x="122.927" y="522.431"/>
     </contour>
     <contour>
-      <point x="115.934" y="248.977" type="qcurve" smooth="yes"/>
-      <point x="105.746" y="241.796"/>
-      <point x="88.4628" y="236.726"/>
-      <point x="78.651" y="241.939"/>
-      <point x="78.9365" y="249.172" type="qcurve" smooth="yes"/>
-      <point x="81.4078" y="311.779"/>
-      <point x="105.918" y="403.96"/>
-      <point x="136.421" y="446.017" type="qcurve" smooth="yes"/>
-      <point x="205.864" y="541.763"/>
-      <point x="311.614" y="541.127" type="qcurve" smooth="yes"/>
-      <point x="559.966" y="538.964"/>
-      <point x="492.436" y="239.303" type="qcurve" smooth="yes"/>
-      <point x="466.805" y="125.796"/>
-      <point x="418.845" y="59.3955" type="qcurve" smooth="yes"/>
-      <point x="383.584" y="10.5787"/>
-      <point x="297.686" y="-38.0781"/>
-      <point x="260.426" y="-38.0781" type="qcurve" smooth="yes"/>
-      <point x="175.69" y="-38.0789"/>
-      <point x="83.2686" y="77.4712"/>
-      <point x="73.9746" y="191.066" type="qcurve" smooth="yes"/>
-      <point x="73.147" y="201.18"/>
-      <point x="94.4397" y="232.937"/>
       <point x="109.974" y="244.756" type="qcurve" smooth="yes"/>
       <point x="120.152" y="252.5"/>
       <point x="138.253" y="259.154"/>
       <point x="149.482" y="255.558"/>
       <point x="150.024" y="248.932" type="qcurve" smooth="yes"/>
       <point x="167.276" y="38.0791"/>
-      <point x="315.574" y="38.0791" type="qcurve" smooth="yes"/>
-      <point x="332.747" y="38.0791"/>
-      <point x="354.994" y="45.8154"/>
-      <point x="360.999" y="52.027"/>
-      <point x="366.175" y="59.1924" type="qcurve" smooth="yes"/>
-      <point x="396.421" y="101.07"/>
-      <point x="417.564" y="194.698" type="qcurve" smooth="yes"/>
-      <point x="448.054" y="329.995"/>
-      <point x="367.904" y="463.997"/>
-      <point x="256.177" y="464.971" type="qcurve" smooth="yes"/>
-      <point x="202.912" y="465.291"/>
-      <point x="188.853" y="445.891" type="qcurve" smooth="yes"/>
-      <point x="178.167" y="431.158"/>
-      <point x="157.068" y="353.582"/>
+      <point x="315.575" y="38.0791" type="qcurve" smooth="yes"/>
+      <point x="338.941" y="38.0791"/>
+      <point x="353.864" y="46.8057" type="qcurve" smooth="yes"/>
+      <point x="358.507" y="49.5225"/>
+      <point x="375.167" y="71.1057"/>
+      <point x="406.075" y="143.817"/>
+      <point x="417.562" y="194.685" type="qcurve" smooth="yes"/>
+      <point x="448.052" y="329.989"/>
+      <point x="367.901" y="463.997"/>
+      <point x="256.201" y="464.971" type="qcurve" smooth="yes"/>
+      <point x="214.234" y="465.223"/>
+      <point x="193.633" y="450.883" type="qcurve" smooth="yes"/>
+      <point x="190.832" y="448.933"/>
+      <point x="177.112" y="426.191"/>
+      <point x="156.994" y="351.712"/>
       <point x="155.064" y="302.828" type="qcurve" smooth="yes"/>
       <point x="154.629" y="291.788"/>
       <point x="131.483" y="259.936"/>
+      <point x="115.934" y="248.977" type="qcurve" smooth="yes"/>
+      <point x="105.746" y="241.796"/>
+      <point x="88.4628" y="236.726"/>
+      <point x="78.651" y="241.939"/>
+      <point x="78.9365" y="249.172" type="qcurve" smooth="yes"/>
+      <point x="82.2208" y="332.375"/>
+      <point x="131.601" y="460.269"/>
+      <point x="196.729" y="505.604" type="qcurve" smooth="yes"/>
+      <point x="248.31" y="541.508"/>
+      <point x="311.591" y="541.127" type="qcurve" smooth="yes"/>
+      <point x="559.966" y="538.965"/>
+      <point x="492.438" y="239.315" type="qcurve" smooth="yes"/>
+      <point x="472.84" y="152.521"/>
+      <point x="402.208" y="21.5003"/>
+      <point x="338.793" y="-15.5918" type="qcurve" smooth="yes"/>
+      <point x="300.347" y="-38.0781"/>
+      <point x="260.426" y="-38.0781" type="qcurve" smooth="yes"/>
+      <point x="92.7227" y="-38.0796"/>
+      <point x="73.9746" y="191.066" type="qcurve" smooth="yes"/>
+      <point x="73.147" y="201.18"/>
+      <point x="94.4397" y="232.937"/>
     </contour>
   </outline>
 </glyph>
