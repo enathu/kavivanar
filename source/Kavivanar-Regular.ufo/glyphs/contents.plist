@@ -74,8 +74,14 @@
     <string>dotaccent.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>eight</key>
+    <string>eight.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>five</key>
+    <string>five.glif</string>
+    <key>four</key>
+    <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>h</key>
@@ -94,10 +100,14 @@
     <string>m.glif</string>
     <key>n</key>
     <string>n.glif</string>
+    <key>nine</key>
+    <string>nine.glif</string>
     <key>o</key>
     <string>o.glif</string>
     <key>ogonek</key>
     <string>ogonek.glif</string>
+    <key>one</key>
+    <string>one.glif</string>
     <key>p</key>
     <string>p.glif</string>
     <key>q</key>
@@ -108,10 +118,16 @@
     <string>ring.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>seven</key>
+    <string>seven.glif</string>
+    <key>six</key>
+    <string>six.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>three</key>
+    <string>three.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
     <key>tm_A</key>
@@ -316,6 +332,8 @@
     <string>tm_Y_a.glif</string>
     <key>tm_Zero</key>
     <string>tm_Z_ero.glif</string>
+    <key>two</key>
+    <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>uni0307</key>
@@ -326,8 +344,6 @@
     <string>uni0311.glif</string>
     <key>uni0326</key>
     <string>uni0326.glif</string>
-    <key>uni25CC</key>
-    <string>uni25C_C_.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>w</key>
@@ -338,5 +354,7 @@
     <string>y.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>zero</key>
+    <string>zero.glif</string>
   </dict>
 </plist>
