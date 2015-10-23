@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="1">
+  <advance width="314"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="127.945" y="755.371"/>
+      <point x="152.973" y="759.905"/>
+      <point x="154.811" y="750.584" type="qcurve" smooth="yes"/>
+      <point x="296.812" y="30.4854" type="line" smooth="yes"/>
+      <point x="298.65" y="21.1631"/>
+      <point x="278.946" y="-10.3652"/>
+      <point x="248.053" y="-35.2715"/>
+      <point x="223.026" y="-39.8057"/>
+      <point x="221.188" y="-30.4834" type="qcurve" smooth="yes"/>
+      <point x="79.1865" y="689.615" type="line" smooth="yes"/>
+      <point x="77.3486" y="698.937"/>
+      <point x="97.0527" y="730.465"/>
+    </contour>
+  </outline>
+</glyph>
