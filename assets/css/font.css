@@ -1,0 +1,67 @@
+/* For testing purpose using TTF */
+
+
+@font-face {
+    font-family:"Aaram";
+    src: url("../../build/Kavivanar-Regular.ttf") /* TTF file for CSS3 browsers */
+}
+
+body {
+  font-family: Aaram;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+#white{
+  background: #fff;
+    color: #000;
+    border: 1px solid #efeded;
+
+}
+#gray{
+  background: #333;
+    color: #fff;
+        border: 1px solid #333;
+}
+
+.pt32 {
+    font-size: 30px;
+}
+
+.pt18 {
+    font-size: 18px;
+}
+
+.pt14 {
+    font-size: 14px;
+}
+
+.pt12 {
+    font-size: 12px;
+}
+
+.pt10 {
+    font-size: 10px;
+}
+
+
+.yellow {
+    border: 1px solid #fd4;
+}
+
+.yellowbg {
+    color:#333;
+    background: #fd4;
+    padding: 4px;
+}
+
+.heading {
+    font-size: 2em;
+}
+
+.lettering {
+    font-size: 72px;
+    width:100%
+        word-wrap: break-word;
+}s

@@ -1,0 +1,41 @@
+/**
+ * Image slider with pure CSS
+ * Original version in http://demosthenes.info/blog/css
+ */
+
+.image-slider {
+	position:relative;
+	display: inline-block;
+	line-height: 0
+}
+
+/* Could use a pseudo-element, but they’re currently
+   super buggy. See: http://dabblet.com/gist/ab432c3f6a8f672cd077 */
+.image-slider > div {
+	position: absolute;
+	top: 0; bottom: 0; left: 0;
+	width: 25px;
+	max-width: 100%;
+	overflow: hidden;
+	resize: horizontal
+}
+
+/* Cross-browser resizer styling */
+.image-slider > div:before {
+	content: '';
+	position: absolute;
+	right: 0; bottom: 0;
+	width: 23px; height: 23px;
+	padding: 5px;
+	background: linear-gradient(-45deg, yellow 50%, transparent 0);
+	background-clip: content-box;
+	cursor: ew-resize;
+	-webkit-filter: drop-shadow(0 0 2px black);
+	filter: drop-shadow(0 0 2px black)
+}
+
+.image-slider img {
+	user-select: none;
+	max-width: 700px;
+    margin: 10px auto
+}
