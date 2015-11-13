@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tm_VowelU.alt1" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-116.118" y="36.2734" type="qcurve" smooth="yes"/>
+      <point x="-105.955" y="43.1008"/>
+      <point x="-89.2074" y="47.2219"/>
+      <point x="-80.2591" y="41.0752"/>
+      <point x="-81.0303" y="33.5078" type="qcurve" smooth="yes"/>
+      <point x="-102.03" y="-172.491" type="line" smooth="yes"/>
+      <point x="-103.208" y="-184.042"/>
+      <point x="-127.371" y="-215.852"/>
+      <point x="-142.882" y="-226.272" type="qcurve" smooth="yes"/>
+      <point x="-153.045" y="-233.1"/>
+      <point x="-169.793" y="-237.221"/>
+      <point x="-178.741" y="-231.074"/>
+      <point x="-177.97" y="-223.507" type="qcurve" smooth="yes"/>
+      <point x="-156.97" y="-17.5078" type="line" smooth="yes"/>
+      <point x="-155.792" y="-5.95735"/>
+      <point x="-131.629" y="25.8534"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
     <key>uni0000</key>
     <string>uni0000.glif</string>
     <key>uni000D</key>
@@ -64,6 +66,10 @@
     <string>E_macron.glif</string>
     <key>Eogonek</key>
     <string>E_ogonek.glif</string>
+    <key>Eth</key>
+    <string>E_th.glif</string>
+    <key>Euro</key>
+    <string>E_uro.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
@@ -76,6 +82,8 @@
     <string>G_dotaccent.glif</string>
     <key>H</key>
     <string>H_.glif</string>
+    <key>Hbar</key>
+    <string>H_bar.glif</string>
     <key>I</key>
     <string>I_.glif</string>
     <key>IJ</key>
@@ -128,6 +136,8 @@
     <string>N_tilde.glif</string>
     <key>O</key>
     <string>O_.glif</string>
+    <key>OE</key>
+    <string>O_E_.glif</string>
     <key>Oacute</key>
     <string>O_acute.glif</string>
     <key>Obreve</key>
@@ -224,6 +234,8 @@
     <string>acute.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
+    <key>ae</key>
+    <string>ae.glif</string>
     <key>agrave</key>
     <string>agrave.glif</string>
     <key>amacron</key>
@@ -288,14 +300,20 @@
     <string>comma.glif</string>
     <key>copyright</key>
     <string>copyright.glif</string>
+    <key>currency</key>
+    <string>currency.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>dcaron</key>
     <string>dcaron.glif</string>
+    <key>dcroat</key>
+    <string>dcroat.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>divide</key>
+    <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>dotaccent</key>
@@ -326,14 +344,20 @@
     <string>eogonek.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
+    <key>eth</key>
+    <string>eth.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>fi</key>
+    <string>fi.glif</string>
     <key>five</key>
     <string>five.glif</string>
+    <key>fl</key>
+    <string>fl.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>g</key>
@@ -344,6 +368,8 @@
     <string>gcircumflex.glif</string>
     <key>gdotaccent</key>
     <string>gdotaccent.glif</string>
+    <key>germandbls</key>
+    <string>germandbls.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>greater</key>
@@ -358,14 +384,26 @@
     <string>guilsinglright.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>hbar</key>
+    <string>hbar.glif</string>
+    <key>hcircumflex</key>
+    <string>hcircumflex.glif</string>
     <key>hungarumlaut</key>
     <string>hungarumlaut.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>iacute</key>
+    <string>iacute.glif</string>
     <key>ibreve</key>
     <string>ibreve.glif</string>
+    <key>icircumflex</key>
+    <string>icircumflex.glif</string>
+    <key>idieresis</key>
+    <string>idieresis.glif</string>
+    <key>igrave</key>
+    <string>igrave.glif</string>
     <key>ij</key>
     <string>ij.glif</string>
     <key>imacron</key>
@@ -402,6 +440,8 @@
     <string>macron.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
+    <key>mu</key>
+    <string>mu.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
     <key>n</key>
@@ -426,6 +466,8 @@
     <string>ocircumflex.glif</string>
     <key>odieresis</key>
     <string>odieresis.glif</string>
+    <key>oe</key>
+    <string>oe.glif</string>
     <key>ogonek</key>
     <string>ogonek.glif</string>
     <key>ograve</key>
@@ -446,6 +488,8 @@
     <string>ordfeminine.glif</string>
     <key>ordmasculine</key>
     <string>ordmasculine.glif</string>
+    <key>oslash</key>
+    <string>oslash.glif</string>
     <key>otilde</key>
     <string>otilde.glif</string>
     <key>p</key>
@@ -470,8 +514,22 @@
     <string>q.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>questiondown</key>
+    <string>questiondown.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
+    <key>quotedblbase</key>
+    <string>quotedblbase.glif</string>
+    <key>quotedblleft</key>
+    <string>quotedblleft.glif</string>
+    <key>quotedblright</key>
+    <string>quotedblright.glif</string>
+    <key>quoteleft</key>
+    <string>quoteleft.glif</string>
+    <key>quoteright</key>
+    <string>quoteright.glif</string>
+    <key>quotesinglbase</key>
+    <string>quotesinglbase.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
     <key>r</key>
@@ -494,6 +552,8 @@
     <string>scedilla.glif</string>
     <key>scircumflex</key>
     <string>scircumflex.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>seven</key>
@@ -504,12 +564,18 @@
     <string>slash.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>sterling</key>
+    <string>sterling.glif</string>
     <key>t</key>
     <string>t.glif</string>
     <key>tcaron</key>
     <string>tcaron.glif</string>
+    <key>thorn</key>
+    <string>thorn.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>threequarters</key>
+    <string>threequarters.glif</string>
     <key>threesuperior</key>
     <string>threesuperior.glif</string>
     <key>tilde</key>
@@ -700,6 +766,12 @@
     <string>tm_V_owelE_e.glif</string>
     <key>tm_VowelI</key>
     <string>tm_V_owelI_.glif</string>
+    <key>tm_VowelI.alt1</key>
+    <string>tm_V_owelI_.alt1.glif</string>
+    <key>tm_VowelI.alt2</key>
+    <string>tm_V_owelI_.alt2.glif</string>
+    <key>tm_VowelI.alt3</key>
+    <string>tm_V_owelI_.alt3.glif</string>
     <key>tm_VowelIi</key>
     <string>tm_V_owelI_i.glif</string>
     <key>tm_VowelO</key>
@@ -708,8 +780,12 @@
     <string>tm_V_owelO_o.glif</string>
     <key>tm_VowelU</key>
     <string>tm_V_owelU_.glif</string>
+    <key>tm_VowelU.alt1</key>
+    <string>tm_V_owelU_.alt1.glif</string>
     <key>tm_VowelUu</key>
     <string>tm_V_owelU_u.glif</string>
+    <key>tm_VowelUu.alt1</key>
+    <string>tm_V_owelU_u.alt1.glif</string>
     <key>tm_YUu</key>
     <string>tm_Y_U_u.glif</string>
     <key>tm_Ya</key>
@@ -832,6 +908,8 @@
     <string>uni0311.glif</string>
     <key>uni0326</key>
     <string>uni0326.glif</string>
+    <key>uni03BC</key>
+    <string>uni03B_C_.glif</string>
     <key>uni0964</key>
     <string>uni0964.glif</string>
     <key>uni0965</key>

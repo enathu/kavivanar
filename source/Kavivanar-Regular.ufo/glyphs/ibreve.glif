@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ibreve" format="1">
-  <advance width="191"/>
+  <advance width="190"/>
   <unicode hex="012D"/>
   <outline>
     <component base="breve" yxScale="0.0874887" xOffset="-88.35" yOffset="-4"/>

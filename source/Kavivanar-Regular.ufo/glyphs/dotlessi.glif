@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="1000"/>
+  <advance width="190"/>
   <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="148.986" y="531.522" type="qcurve" smooth="yes"/>
+      <point x="159.147" y="538.33"/>
+      <point x="175.863" y="542.397"/>
+      <point x="184.761" y="536.197"/>
+      <point x="183.962" y="528.611" type="qcurve" smooth="yes"/>
+      <point x="130.962" y="25.4316" type="line" smooth="yes"/>
+      <point x="129.742" y="13.8533"/>
+      <point x="105.523" y="-17.9533"/>
+      <point x="90.0146" y="-28.3418" type="qcurve" smooth="yes"/>
+      <point x="79.854" y="-35.1485"/>
+      <point x="63.1382" y="-39.2154"/>
+      <point x="54.24" y="-33.0158"/>
+      <point x="55.0391" y="-25.4297" type="qcurve" smooth="yes"/>
+      <point x="108.039" y="477.75" type="line" smooth="yes"/>
+      <point x="109.259" y="489.328"/>
+      <point x="133.478" y="521.134"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tm_VowelI.alt2" format="1">
+  <advance width="204"/>
+  <outline>
+    <contour>
+      <point x="-156.602" y="483.814"/>
+      <point x="-181.299" y="479.802"/>
+      <point x="-182.882" y="489.329" type="qcurve" smooth="yes"/>
+      <point x="-191.838" y="523.87"/>
+      <point x="-181.334" y="600.718"/>
+      <point x="-154.031" y="637.782" type="qcurve" smooth="yes"/>
+      <point x="-133.372" y="665.827"/>
+      <point x="-85.7185" y="701.594"/>
+      <point x="-35.2004" y="715.68"/>
+      <point x="3.75218" y="719.199"/>
+      <point x="28.293" y="718.064" type="qcurve" smooth="yes"/>
+      <point x="202.333" y="711.659"/>
+      <point x="176.987" y="485.656" type="qcurve"/>
+      <point x="141.017" y="26.0293" type="line" smooth="yes"/>
+      <point x="140.128" y="14.6752"/>
+      <point x="116.355" y="-17.1607"/>
+      <point x="100.825" y="-27.7939" type="qcurve" smooth="yes"/>
+      <point x="90.6496" y="-34.761"/>
+      <point x="73.6887" y="-39.2528"/>
+      <point x="64.4013" y="-33.4686"/>
+      <point x="64.9834" y="-26.0293" type="qcurve" smooth="yes"/>
+      <point x="101.013" y="434.344" type="line"/>
+      <point x="123.666" y="636.343"/>
+      <point x="-28.2939" y="641.936" type="qcurve" smooth="yes"/>
+      <point x="-77.7235" y="644.222"/>
+      <point x="-104.322" y="632.396" type="qcurve"/>
+      <point x="-116.014" y="603.086"/>
+      <point x="-107.119" y="549.534" type="qcurve" smooth="yes"/>
+      <point x="-105.536" y="540.008"/>
+      <point x="-125.652" y="508.409"/>
+    </contour>
+  </outline>
+</glyph>
