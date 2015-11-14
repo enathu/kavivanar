@@ -3,6 +3,12 @@
   <advance width="1645"/>
   <outline>
     <contour>
+      <point x="1304" y="6" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
+    </contour>
+    <contour>
+      <point x="1179" y="0" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>
+    </contour>
+    <contour>
       <point x="1330.58" y="-21.71" type="qcurve"/>
       <point x="1307.69" y="-34.6358"/>
       <point x="1302.05" y="-23.1025" type="qcurve" smooth="yes"/>
