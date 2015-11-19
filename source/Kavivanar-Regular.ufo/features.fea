@@ -255,7 +255,7 @@ lookup kernHorizontalKerninglookup0 {
 lookup abvm_1 {
   lookupflag 0;
   markClass [\tm_Anusvara \tm_Virama ] <anchor 0 0> @MARKS_CLASS_0_LUT0_SUB0;
-  pos base [\tm_Ca ] <anchor 433 2> mark @MARKS_CLASS_0_LUT0_SUB0;
+  pos base [\tm_Ca ] <anchor 461 0> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Ha ] <anchor 892 -13> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Ja ] <anchor 405 0> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_KSsa ] <anchor 1179 0> mark @MARKS_CLASS_0_LUT0_SUB0;
@@ -270,7 +270,7 @@ lookup abvm_1 {
   pos base [\tm_Nnna ] <anchor 577 -6> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Nya ] <anchor 643 0> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Pa ] <anchor 358 -3> mark @MARKS_CLASS_0_LUT0_SUB0;
-  pos base [\tm_Rra ] <anchor 357 5> mark @MARKS_CLASS_0_LUT0_SUB0;
+  pos base [\tm_Rra ] <anchor 388 2> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Sa ] <anchor 506 4> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Sha ] <anchor 435 -6> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Ssa ] <anchor 565 6> mark @MARKS_CLASS_0_LUT0_SUB0;
