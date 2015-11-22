@@ -418,5 +418,6 @@ feature abvm {
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
 
+  LigatureCaretByPos \tm_YUu 3;
 } GDEF;
 
