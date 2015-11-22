@@ -292,7 +292,7 @@ lookup abvm_2 {
   pos base [\tm_La ] <anchor 725 6> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Lla ] <anchor 836 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Llla ] <anchor 620 0> mark @MARKS_CLASS_0_LUT1_SUB0;
-  pos base [\tm_Ma ] <anchor 628 0> mark @MARKS_CLASS_0_LUT1_SUB0;
+  pos base [\tm_Ma ] <anchor 648 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Na ] <anchor 520 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Nga ] <anchor 798 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Nna ] <anchor 1322 -6> mark @MARKS_CLASS_0_LUT1_SUB0;
@@ -304,7 +304,7 @@ lookup abvm_2 {
   pos base [\tm_Sha ] <anchor 757 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ssa ] <anchor 941 6> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ta ] <anchor 559 6> mark @MARKS_CLASS_0_LUT1_SUB0;
-  pos base [\tm_Va ] <anchor 831 7> mark @MARKS_CLASS_0_LUT1_SUB0;
+  pos base [\tm_Va ] <anchor 774 0> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ya ] <anchor 696 2> mark @MARKS_CLASS_0_LUT1_SUB0;
 } abvm_2;
 
