@@ -287,7 +287,7 @@ lookup abvm_2 {
   pos base [\tm_Ca ] <anchor 562 6> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ha ] <anchor 1141 6> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ja ] <anchor 695 14> mark @MARKS_CLASS_0_LUT1_SUB0;
-  pos base [\tm_KSsa ] <anchor 1304 6> mark @MARKS_CLASS_0_LUT1_SUB0;
+  pos base [\tm_KSsa ] <anchor 1375 1> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Ka ] <anchor 582 -6> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_La ] <anchor 725 6> mark @MARKS_CLASS_0_LUT1_SUB0;
   pos base [\tm_Lla ] <anchor 836 0> mark @MARKS_CLASS_0_LUT1_SUB0;
