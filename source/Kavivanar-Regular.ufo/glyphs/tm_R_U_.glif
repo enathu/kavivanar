@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_RU" format="1">
-  <advance width="792"/>
+  <advance width="832"/>
   <outline>
     <contour>
       <point x="558.28" y="320.076" type="qcurve" smooth="yes"/>
