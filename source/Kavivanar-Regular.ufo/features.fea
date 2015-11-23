@@ -256,7 +256,7 @@ lookup abvm_1 {
   lookupflag 0;
   markClass [\tm_Anusvara \tm_Virama ] <anchor 0 0> @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Ca ] <anchor 461 0> mark @MARKS_CLASS_0_LUT0_SUB0;
-  pos base [\tm_Ha ] <anchor 892 -13> mark @MARKS_CLASS_0_LUT0_SUB0;
+  pos base [\tm_Ha ] <anchor 892 -1> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Ja ] <anchor 405 0> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_KSsa ] <anchor 1179 0> mark @MARKS_CLASS_0_LUT0_SUB0;
   pos base [\tm_Ka ] <anchor 502 0> mark @MARKS_CLASS_0_LUT0_SUB0;
