@@ -4,28 +4,22 @@
   <unicode hex="0127"/>
   <outline>
     <contour>
-      <point x="28.3359" y="654.815" type="qcurve" smooth="yes"/>
-      <point x="39.8271" y="670.367"/>
-      <point x="55.7368" y="681.385" type="qcurve" smooth="yes"/>
-      <point x="71.6464" y="692.404"/>
-      <point x="82.1309" y="692.07" type="qcurve" smooth="yes"/>
-      <point x="334.131" y="684.07" type="line" smooth="yes"/>
-      <point x="341" y="683.852"/>
-      <point x="343.117" y="678.511" type="qcurve" smooth="yes"/>
-      <point x="345.233" y="673.171"/>
-      <point x="342.214" y="664.273" type="qcurve" smooth="yes"/>
-      <point x="339.195" y="655.375"/>
-      <point x="331.666" y="645.186" type="qcurve" smooth="yes"/>
-      <point x="320.174" y="629.633"/>
-      <point x="304.265" y="618.615" type="qcurve" smooth="yes"/>
-      <point x="288.356" y="607.597"/>
-      <point x="277.871" y="607.931" type="qcurve" smooth="yes"/>
-      <point x="25.8711" y="615.93" type="line" smooth="yes"/>
-      <point x="19.0015" y="616.148"/>
-      <point x="16.885" y="621.489" type="qcurve" smooth="yes"/>
-      <point x="14.7686" y="626.83"/>
-      <point x="17.7875" y="635.728" type="qcurve" smooth="yes"/>
-      <point x="20.8065" y="644.625"/>
+      <point x="18" y="636" type="qcurve" smooth="yes"/>
+      <point x="21" y="645"/>
+      <point x="30" y="657" type="qcurve" smooth="yes"/>
+      <point x="40" y="670"/>
+      <point x="56" y="681" type="qcurve" smooth="yes"/>
+      <point x="72" y="692"/>
+      <point x="82" y="692" type="qcurve" smooth="yes"/>
+      <point x="334" y="684" type="line" smooth="yes"/>
+      <point x="349" y="684"/>
+      <point x="342" y="664" type="qcurve" smooth="yes"/>
+      <point x="333" y="639"/>
+      <point x="311" y="623" type="qcurve" smooth="yes"/>
+      <point x="288" y="607"/>
+      <point x="278" y="608" type="qcurve" smooth="yes"/>
+      <point x="26" y="616" type="line" smooth="yes"/>
+      <point x="11" y="617"/>
     </contour>
     <component base="h"/>
   </outline>

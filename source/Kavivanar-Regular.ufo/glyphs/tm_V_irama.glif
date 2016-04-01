@@ -7,25 +7,20 @@
       <point x="0" y="0" type="move" name="_MARKS_CLASS_0_LUT0_SUB0"/>
     </contour>
     <contour>
-      <point x="69.333" y="706.302" type="qcurve" smooth="yes"/>
-      <point x="77" y="697"/>
-      <point x="80.167" y="688.801" type="qcurve" smooth="yes"/>
+      <point x="39" y="731" type="qcurve" smooth="yes"/>
+      <point x="71" y="714"/>
+      <point x="80" y="689" type="qcurve" smooth="yes"/>
       <point x="83" y="681"/>
-      <point x="80.5" y="676.163" type="qcurve" smooth="yes"/>
-      <point x="77.2158" y="671.318"/>
-      <point x="70.502" y="671.24" type="qcurve" smooth="yes"/>
-      <point x="-14.9658" y="670.246" type="line" smooth="yes"/>
-      <point x="-29.1182" y="670.081"/>
-      <point x="-44.0029" y="680.385" type="qcurve" smooth="yes"/>
-      <point x="-61" y="691"/>
-      <point x="-73.1553" y="704.646" type="qcurve" smooth="yes"/>
-      <point x="-81" y="714"/>
-      <point x="-87" y="730"/>
-      <point x="-83.1582" y="739.605"/>
-      <point x="-74.3252" y="739.708" type="qcurve" smooth="yes"/>
-      <point x="11.1436" y="740.701" type="line" smooth="yes"/>
-      <point x="21.3252" y="740.819"/>
-      <point x="57" y="721"/>
+      <point x="77" y="671"/>
+      <point x="71" y="671" type="qcurve" smooth="yes"/>
+      <point x="-15" y="670" type="line" smooth="yes"/>
+      <point x="-42" y="670"/>
+      <point x="-73" y="705" type="qcurve" smooth="yes"/>
+      <point x="-89" y="724"/>
+      <point x="-83" y="740"/>
+      <point x="-74" y="740" type="qcurve" smooth="yes"/>
+      <point x="11" y="741" type="line" smooth="yes"/>
+      <point x="21" y="741"/>
     </contour>
   </outline>
 </glyph>

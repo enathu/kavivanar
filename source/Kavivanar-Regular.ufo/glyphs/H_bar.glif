@@ -4,28 +4,22 @@
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="45.7393" y="557.501" type="qcurve" smooth="yes"/>
-      <point x="57.0039" y="573.057"/>
-      <point x="72.9252" y="584.318" type="qcurve" smooth="yes"/>
-      <point x="88.8464" y="595.58"/>
-      <point x="99.5742" y="595.58" type="qcurve" smooth="yes"/>
-      <point x="735.575" y="595.579" type="line" smooth="yes"/>
-      <point x="742.604" y="595.579"/>
-      <point x="744.933" y="590.425" type="qcurve" smooth="yes"/>
-      <point x="747.262" y="585.271"/>
-      <point x="744.452" y="576.482" type="qcurve" smooth="yes"/>
-      <point x="741.642" y="567.692"/>
-      <point x="734.262" y="557.5" type="qcurve" smooth="yes"/>
-      <point x="722.997" y="541.944"/>
-      <point x="707.076" y="530.682" type="qcurve" smooth="yes"/>
-      <point x="691.154" y="519.421"/>
-      <point x="680.426" y="519.421" type="qcurve" smooth="yes"/>
-      <point x="44.4258" y="519.422" type="line" smooth="yes"/>
-      <point x="37.3968" y="519.422"/>
-      <point x="35.0677" y="524.576" type="qcurve" smooth="yes"/>
-      <point x="32.7385" y="529.73"/>
-      <point x="35.5485" y="538.519" type="qcurve" smooth="yes"/>
-      <point x="38.3586" y="547.309"/>
+      <point x="36" y="539" type="qcurve" smooth="yes"/>
+      <point x="39" y="548"/>
+      <point x="48" y="560" type="qcurve" smooth="yes"/>
+      <point x="57" y="573"/>
+      <point x="73" y="584" type="qcurve" smooth="yes"/>
+      <point x="89" y="595"/>
+      <point x="100" y="596" type="qcurve" smooth="yes"/>
+      <point x="736" y="596" type="line" smooth="yes"/>
+      <point x="751" y="596"/>
+      <point x="744" y="576" type="qcurve" smooth="yes"/>
+      <point x="736" y="551"/>
+      <point x="714" y="535" type="qcurve" smooth="yes"/>
+      <point x="691" y="519"/>
+      <point x="680" y="519" type="qcurve" smooth="yes"/>
+      <point x="44" y="519" type="line" smooth="yes"/>
+      <point x="30" y="520"/>
     </contour>
     <component base="H" xOffset="90"/>
   </outline>
