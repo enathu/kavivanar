@@ -9,7 +9,6 @@
       <point x="141" y="702"/>
       <point x="179" y="702"/>
       <point x="207" y="672"/>
-      <point x="207" y="650" type="qcurve" smooth="yes"/>
       <point x="207" y="628"/>
       <point x="179" y="598"/>
       <point x="141" y="598"/>
@@ -21,7 +20,6 @@
       <point x="299" y="698"/>
       <point x="337" y="698"/>
       <point x="365" y="668"/>
-      <point x="365" y="646" type="qcurve" smooth="yes"/>
       <point x="365" y="624"/>
       <point x="337" y="594"/>
       <point x="299" y="594"/>

@@ -4,10 +4,10 @@
   <unicode hex="0BB9"/>
   <outline>
     <contour>
-      <point x="1141" y="6" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
+      <point x="1141" y="6" type="move" name="Anchor-1"/>
     </contour>
     <contour>
-      <point x="892" y="-1" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>
+      <point x="892" y="-1" type="move" name="Anchor-0"/>
     </contour>
     <contour>
       <point x="130" y="261" type="qcurve"/>
@@ -78,7 +78,7 @@
       <point x="1003" y="-47"/>
       <point x="1025" y="-18" type="qcurve" smooth="yes"/>
       <point x="1030" y="-11"/>
-      <point x="1034" y="-1" type="qcurve"/>
+      <point x="1034" y="-1" type="qcurve" smooth="yes"/>
       <point x="1083" y="347" type="line"/>
       <point x="1107" y="476"/>
       <point x="1014" y="481" type="qcurve" smooth="yes"/>

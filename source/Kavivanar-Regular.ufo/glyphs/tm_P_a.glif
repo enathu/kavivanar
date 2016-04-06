@@ -4,21 +4,21 @@
   <unicode hex="0BAA"/>
   <outline>
     <contour>
-      <point x="630" y="-6" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
+      <point x="630" y="-6" type="move" name="Anchor-1"/>
     </contour>
     <contour>
-      <point x="358" y="-3" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>
+      <point x="358" y="-3" type="move" name="Anchor-0"/>
     </contour>
     <contour>
       <point x="591" y="539"/>
-      <point x="604" y="547.5" type="qcurve" smooth="yes"/>
+      <point x="604" y="548" type="qcurve" smooth="yes"/>
       <point x="618" y="556"/>
       <point x="626" y="558" type="qcurve" smooth="yes"/>
       <point x="645" y="562"/>
       <point x="642" y="547" type="qcurve" smooth="yes"/>
       <point x="591" y="26" type="line" smooth="yes"/>
       <point x="591" y="21"/>
-      <point x="584.5" y="7" type="qcurve" smooth="yes"/>
+      <point x="584" y="7" type="qcurve" smooth="yes"/>
       <point x="578" y="-8"/>
       <point x="572" y="-16" type="qcurve" smooth="yes"/>
       <point x="555" y="-38"/>
@@ -31,7 +31,7 @@
       <point x="100" y="495" type="line" smooth="yes"/>
       <point x="101" y="507"/>
       <point x="125" y="539"/>
-      <point x="138" y="547.5" type="qcurve" smooth="yes"/>
+      <point x="138" y="548" type="qcurve" smooth="yes"/>
       <point x="152" y="556"/>
       <point x="160" y="558" type="qcurve" smooth="yes"/>
       <point x="178" y="562"/>

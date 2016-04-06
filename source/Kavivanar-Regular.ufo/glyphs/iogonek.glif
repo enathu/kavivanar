@@ -3,7 +3,7 @@
   <advance width="190"/>
   <unicode hex="012F"/>
   <outline>
-    <component base="ogonek" yxScale="0.0874887" xOffset="-32" yOffset="6"/>
-    <component base="i" yxScale="0.0874887"/>
+    <component base="ogonek" yxScale="0.0874634" xOffset="-32" yOffset="6"/>
+    <component base="i" yxScale="0.0874634"/>
   </outline>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0B82"/>
   <outline>
     <contour>
-      <point x="0" y="0" type="move" name="_MARKS_CLASS_0_LUT0_SUB0"/>
+      <point x="0" y="0" type="move" name="_Anchor-0"/>
     </contour>
     <contour>
       <point x="82" y="754" type="qcurve" smooth="yes"/>

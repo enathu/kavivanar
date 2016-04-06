@@ -4,14 +4,15 @@
   <unicode hex="0BAF"/>
   <outline>
     <contour>
-      <point x="696" y="2" type="move" name="MARKS_CLASS_0_LUT1_SUB0"/>
+      <point x="696" y="2" type="move" name="Anchor-1"/>
     </contour>
     <contour>
-      <point x="344" y="-2" type="move" name="MARKS_CLASS_0_LUT0_SUB0"/>
+      <point x="344" y="-2" type="move" name="Anchor-0"/>
     </contour>
     <contour>
-      <point x="644" y="28" type="line" smooth="yes"/>
-      <point x="644" y="22" type="line" smooth="yes"/>
+      <point x="644" y="28" type="line"/>
+      <point x="644" y="28"/>
+      <point x="644" y="22" type="qcurve" smooth="yes"/>
       <point x="644" y="16"/>
       <point x="621" y="-16"/>
       <point x="589" y="-38"/>
@@ -23,7 +24,7 @@
       <point x="225" y="-47"/>
       <point x="137" y="-36" type="qcurve" smooth="yes"/>
       <point x="40" y="-23"/>
-      <point x="48" y="79" type="qcurve"/>
+      <point x="48" y="79" type="qcurve" smooth="yes"/>
       <point x="85" y="494" type="line" smooth="yes"/>
       <point x="86" y="505"/>
       <point x="110" y="537"/>

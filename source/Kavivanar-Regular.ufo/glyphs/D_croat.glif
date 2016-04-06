@@ -6,9 +6,7 @@
     <contour>
       <point x="55" y="331" type="qcurve" smooth="yes"/>
       <point x="58" y="340"/>
-      <point x="67" y="353" type="qcurve" smooth="yes"/>
       <point x="76" y="366"/>
-      <point x="92" y="377" type="qcurve" smooth="yes"/>
       <point x="108" y="388"/>
       <point x="119" y="388" type="qcurve" smooth="yes"/>
       <point x="387" y="388" type="line" smooth="yes"/>
@@ -21,6 +19,31 @@
       <point x="63" y="312" type="line" smooth="yes"/>
       <point x="49" y="312"/>
     </contour>
-    <component base="D" xOffset="68"/>
+    <contour>
+      <point x="119" y="-26" type="qcurve" smooth="yes"/>
+      <point x="189" y="694" type="line" smooth="yes"/>
+      <point x="195" y="732"/>
+      <point x="226" y="750" type="qcurve" smooth="yes"/>
+      <point x="238" y="757"/>
+      <point x="253" y="758" type="qcurve" smooth="yes"/>
+      <point x="707" y="785"/>
+      <point x="695" y="387" type="qcurve" smooth="yes"/>
+      <point x="690" y="237"/>
+      <point x="533" y="28"/>
+      <point x="293" y="-48"/>
+      <point x="128" y="-38" type="qcurve" smooth="yes"/>
+      <point x="118" y="-38"/>
+    </contour>
+    <contour>
+      <point x="196" y="37" type="line"/>
+      <point x="342" y="29"/>
+      <point x="528" y="90"/>
+      <point x="563" y="138" type="qcurve" smooth="yes"/>
+      <point x="614" y="207"/>
+      <point x="619" y="333" type="qcurve" smooth="yes"/>
+      <point x="624" y="507"/>
+      <point x="446" y="682"/>
+      <point x="259" y="684" type="qcurve"/>
+    </contour>
   </outline>
 </glyph>
