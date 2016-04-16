@@ -12,6 +12,10 @@ The slanted letterforms for Tamil are inspired from a manuscript by Kavivanar M.
 
 Send us bug reports, feature enhancements or glyph requests, using the [Github Issue Tracker](https://github.com/enathu/kavivanar/issues/).
 
+### Build
+
+Open source from the sfd folder from the source directory in FontForge and merge the features file in that very folder and generate font instances. 
+
 ## License
 
 Copyright (c) 2015, Tharique Azeez ([link](http://thariqueazeez.com))
