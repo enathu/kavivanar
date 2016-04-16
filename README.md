@@ -14,7 +14,7 @@ Send us bug reports, feature enhancements or glyph requests, using the [Github I
 
 ### Build
 
-Open source from the sfd folder from the source directory in FontForge and merge the features file in that very folder and generate font instances. 
+Open the source sfd from the sfd directory (source/sfd) in FontForge and merge the features file in that very folder and generate font instances. 
 
 ## License
 
