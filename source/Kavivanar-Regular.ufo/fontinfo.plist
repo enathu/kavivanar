@@ -13,7 +13,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>86</integer>
+    <integer>88</integer>
     <key>copyright</key>
     <string>Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com|zeezat@gmail.com)</string>
     <key>unitsPerEm</key>
@@ -47,7 +47,7 @@
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.86</string>
+    <string>Version 1.88</string>
     <key>openTypeNameUniqueID</key>
     <string>FontForge : Kavivanar Regular : 1-4-2016</string>
     <key>openTypeNamePreferredFamilyName</key>
