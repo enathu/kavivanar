@@ -4,7 +4,7 @@ FullName: Kavivanar
 FamilyName: Kavivanar
 Weight: Book
 Copyright: Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com|zeezat@gmail.com)
-Version: 1.88
+Version: 1.89
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1459486720
-ModificationTime: 1490623113
+ModificationTime: 1490623878
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -152,7 +152,7 @@ ShortTable: maxp 16
   3
   2
 EndShort
-LangName: 1033 "" "" "" "FontForge : Kavivanar Regular : 1-4-2016" "" "Version 1.88" "" "" "Tharique Azeez" "Tharique Azeez" "" "http://niram.org" "http://thariqueazeez.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Kavivanar" "Regular"
+LangName: 1033 "" "" "" "FontForge : Kavivanar Regular : 1-4-2016" "" "Version 1.89" "" "" "Tharique Azeez" "Tharique Azeez" "" "http://niram.org" "http://thariqueazeez.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Kavivanar" "Regular"
 GaspTable: 1 65535 2 0
 Encoding: Custom
 Compacted: 1
