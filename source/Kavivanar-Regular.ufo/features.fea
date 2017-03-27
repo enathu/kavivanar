@@ -9,8 +9,8 @@ languagesystem tml2 dflt;
 lookup akhnAkhandlookup0 {
   lookupflag 0;
     sub \tm_Ka \tm_Virama \tm_Ssa  by \tm_KSsa;
-    sub \tm_Sha \tm_Virama \tm_Ra \tm_VowelIi  by \tm_Shree;
     sub \tm_Sa \tm_Virama \tm_Ra \tm_VowelIi  by \tm_Shree;
+    sub \tm_Sha \tm_Virama \tm_Ra \tm_VowelIi  by \tm_Shree;
 } akhnAkhandlookup0;
 
 lookup abvsAboveBaseSubstitutionslookup1 {
@@ -310,15 +310,15 @@ lookup abvmAboveBaseMarklookup2 {
 
 lookup kernHorizontalKerninglookup3 {
   lookupflag 0;
-    @kc21_first_1 = [\tm_Au \tm_AuLengthMark \tm_E \tm_Ee \tm_Hundred \tm_Lla \tm_Nna \tm_Nnna \tm_Ra 
-	\tm_VowelAa \tm_VowelUu.alt1 ];
+    @kc21_first_1 = [\tm_E \tm_Ee \tm_Au \tm_Nna \tm_Nnna \tm_Ra \tm_Lla \tm_VowelAa \tm_AuLengthMark 
+	\tm_Hundred \tm_VowelUu.alt1 ];
     @kc21_second_1 = [\tm_A \tm_Aa \tm_Eight ];
-    @kc21_second_2 = [\tm_AuLengthMark \tm_CU \tm_CUu \tm_Ca \tm_E \tm_Ee \tm_Five \tm_Four \tm_Ha 
-	\tm_KU \tm_Ka \tm_LU \tm_La \tm_LlU \tm_LlUu \tm_Lla \tm_LllUu \tm_MU 
-	\tm_MUu \tm_Merpadi \tm_Naal \tm_Nine \tm_NnU \tm_Nna \tm_NnnU \tm_Nnna 
-	\tm_NyU \tm_Nya \tm_One \tm_RU \tm_RUu \tm_Sa \tm_Seven \tm_Shree 
-	\tm_Six \tm_Ssa \tm_Ta \tm_Thousand \tm_TtU \tm_TtUu \tm_VUu \tm_Va 
-	\tm_Varavu \tm_Varudam \tm_VowelAi ];
+    @kc21_second_2 = [\tm_E \tm_Ee \tm_Ka \tm_Ca \tm_Nya \tm_Nna \tm_Ta \tm_Nnna \tm_La \tm_Lla \tm_Va 
+	\tm_Ssa \tm_Sa \tm_Ha \tm_VowelAi \tm_AuLengthMark \tm_One \tm_Four 
+	\tm_Five \tm_Six \tm_Seven \tm_Nine \tm_Thousand \tm_Naal \tm_Varudam 
+	\tm_Varavu \tm_Merpadi \tm_CU \tm_CUu \tm_KU \tm_LU \tm_LlU \tm_LlUu 
+	\tm_LllUu \tm_MU \tm_MUu \tm_NnU \tm_NnnU \tm_NyU \tm_RU \tm_RUu 
+	\tm_Shree \tm_TtU \tm_TtUu \tm_VUu ];
     @kc21_second_3 = [\tm_I ];
     pos @kc21_first_1 @kc21_second_1 -60;
     pos @kc21_first_1 @kc21_second_2 -40;
